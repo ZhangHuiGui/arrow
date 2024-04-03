@@ -23,6 +23,7 @@
 #include <string>
 #include <unordered_set>
 #include <vector>
+#include <iostream>
 
 #include <gmock/gmock.h>
 #include <gtest/gtest.h>
